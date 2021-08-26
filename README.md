@@ -11,14 +11,8 @@ palettes inspired by characters and scenes from Bojack Horseman.
 
 ## Installation
 
-You can install the released version of bojackpalette from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("bojackpalette")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+You can install the development version from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
