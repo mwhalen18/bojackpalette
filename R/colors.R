@@ -3,7 +3,7 @@
 #'
 #' @export
 bojack_palettes = list(
-  Bojack = c("#f80414", "#a86444", "#74747c", "#049cac", "#585cb4", "#0a0b0b", "#fcf7fc"),
+  Bojack = c("#f80414", "#74747c", "#a86444", "#049cac", "#585cb4", "#0a0b0b", "#fcf7fc"),
   Todd = c("#f6c013","#1f156a","#febec1","#ff002f","#5a5574","#ffffff","#4a408a"),
   Diane = c("#001341","#ffc4a8","#4c720a","#7e371f","#fcfbfc","#708ea9","#3b3a2f","#ebe36c","#393b31"),
   MrPeanutButter = c("#fddb27","#463134","#33302f","#696a65","#9be7ff","#b3957b"),
