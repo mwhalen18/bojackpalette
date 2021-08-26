@@ -12,7 +12,7 @@ bojack_palettes = list(
   PrincessCarolyn = c("#ff7eeb","#3afe9a","#e9dd00","#01b29b","#858487","#e00a87"),
   Hollyhock = c("#feeaca","#83411b","#cf8054","#87dcd0","#ddd87a","#47464b"),
   SarahLynn = c("#9c603a","#fbe1d2","#0064c5","#b57df5","#fcfdf4","#565052","#dcc225"),
-  HorsinAroundBojack = c("#000000","#a7682f","#fdfdfd","#e6798a","#de9a27","#71cecd","#ef0718")
+  HorsinAroundBojack = c("#a7682f","#e6798a","#de9a27","#71cecd","#ef0718", "#000000","#fdfdfd")
 )
 
 
