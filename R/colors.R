@@ -1,6 +1,8 @@
 
 #' Complete list of available character palettes
 #'
+#' Use \code{\link{bojack_palette}} to contruct palettes
+#'
 #' @export
 bojack_palettes = list(
   Bojack = c("#f80414", "#74747c", "#a86444", "#049cac", "#585cb4", "#0a0b0b", "#fcf7fc"),

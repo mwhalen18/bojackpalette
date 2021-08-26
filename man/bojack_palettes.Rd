@@ -11,6 +11,6 @@ An object of class \code{list} of length 8.
 bojack_palettes
 }
 \description{
-Complete list of available character palettes
+Use \code{\link{bojack_palette}} to contruct palettes
 }
 \keyword{datasets}
