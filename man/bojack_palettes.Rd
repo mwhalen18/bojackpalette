@@ -11,6 +11,6 @@ An object of class \code{list} of length 8.
 bojack_palettes
 }
 \description{
-Use \code{\link{bojack_palette}} to construct palettes
+Use \code{\link{bojack_palette}} to construct palettes.
 }
 \keyword{datasets}

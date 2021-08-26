@@ -1,7 +1,7 @@
 
 #' Complete list of available character palettes
 #'
-#' Use \code{\link{bojack_palette}} to construct palettes
+#' Use \code{\link{bojack_palette}} to construct palettes.
 #'
 #' @export
 bojack_palettes = list(
