@@ -1,11 +1,11 @@
 Package: bojackpalette
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Color Palettes Inspired By Characters From Netflix's Bojack Horesman
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Matthew Whalen
+Maintainer: Matthew Whalen <matthew.whalen18@gmail.com>
+Description: These are color palettes inspired by characters/scenes from Bojack Horesman. 
+License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.1
