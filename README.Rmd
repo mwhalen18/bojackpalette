@@ -52,12 +52,12 @@ palette = bojack_palette("Bojack")
 
 You can also specify a specific number of colors from the palette.
 
-```{r}
+```{r, out.width="300px", results="show"}
 bojack_palette("SarahLynn", 5)
 ```
 ## Palettes
 
-```{r, edcho = FALSE}
+```{r, echo = FALSE, out.width="300px"}
 print.palette = function(x, ...){
   n = length(x)
   old = par(mar = c(0.5,0.5,0.5,0.5))

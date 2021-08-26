@@ -50,24 +50,7 @@ You can also specify a specific number of colors from the palette.
 bojack_palette("SarahLynn", 5)
 ```
 
-<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" /> \#\#
-Palettes
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="300px" />
+\#\# Palettes
 
-``` r
-print.palette = function(x, ...){
-  n = length(x)
-  old = par(mar = c(0.5,0.5,0.5,0.5))
-  on.exit(par(old))
-  image(1:n, 1, as.matrix(1:n), col = x,
-        ylab = "", xaxt = "n", yaxt = "n", bty = "n")
-
-  rect(0, 0.9, n + 1, 1.1, col = rgb(1, 1, 1, 0.8), border = NA)
-  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "Lato", col = "#32373D")
-}
-
-for(name in names(bojack_palettes)){
-  (print.palette(bojack_palette(name)))
-}
-```
-
-<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-2.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-3.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-4.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-5.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-6.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-7.png" width="100%" /><img src="man/figures/README-unnamed-chunk-4-8.png" width="100%" />
+<img src="man/figures/README-unnamed-chunk-4-1.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-2.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-3.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-4.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-5.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-6.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-7.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-8.png" width="300px" />
