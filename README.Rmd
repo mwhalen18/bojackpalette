@@ -49,6 +49,7 @@ You can also specify a specific number of colors from the palette.
 ```{r, out.width="300px", results="show"}
 bojack_palette("SarahLynn", 5)
 ```
+
 ## Palettes
 
 ```{r, echo = FALSE, out.width="300px"}

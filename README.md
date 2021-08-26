@@ -45,6 +45,7 @@ bojack_palette("SarahLynn", 5)
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="300px" />
-\#\# Palettes
+
+## Palettes
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-2.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-3.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-4.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-5.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-6.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-7.png" width="300px" /><img src="man/figures/README-unnamed-chunk-4-8.png" width="300px" />
