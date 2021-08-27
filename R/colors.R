@@ -12,7 +12,8 @@ bojack_palettes = list(
   PrincessCarolyn = c("#ff7eeb","#3afe9a","#e9dd00","#01b29b","#858487","#e00a87"),
   Hollyhock = c("#feeaca","#83411b","#cf8054","#87dcd0","#ddd87a","#47464b"),
   SarahLynn = c("#9c603a","#fbe1d2","#0064c5","#b57df5","#fcfdf4","#565052","#dcc225"),
-  HorsinAroundBojack = c("#a7682f","#e6798a","#de9a27","#71cecd","#ef0718", "#000000","#fdfdfd")
+  HorsinAroundBojack = c("#a7682f","#e6798a","#de9a27","#71cecd","#ef0718", "#000000","#fdfdfd"),
+  ViewFromHalfwayDown = c("#332c3c", "#946253", "#56518a", "#d9cfc2", "#7269c7", "#a2b2c5", "#744c42", "#bd5a28", "#717067")
 )
 
 
@@ -23,7 +24,8 @@ bojack_palettes = list(
 #' @param name Name of desired character or palette. Choices are
 #'     \code{Bojack}, \code{Todd}, \code{Diane},
 #'     \code{MrPeanutButter}, \code{PrincessCarolyn},
-#'     \code{Hollyhock}, \code{SarahLynn}, \code{HorsinAroundBojack}
+#'     \code{Hollyhock}, \code{SarahLynn}, \code{HorsinAroundBojack},
+#'     \code{ViewFromHalfwayDown}
 #'     @importFrom graphics rgb rect par image text
 #' @return A vector of hex colors
 #' @export
@@ -54,5 +56,5 @@ print.palette = function(x, ...){
         ylab = "", xaxt = "n", yaxt = "n", bty = "n")
 
   rect(0, 0.9, n + 1, 1.1, col = rgb(1, 1, 1, 0.8), border = NA)
-  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "Lato", col = "#32373D")
+  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "Helvetica", col = "#32373D")
 }
