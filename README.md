@@ -21,7 +21,7 @@ devtools::install_github("mwhalen18/bojackpalette")
 
 Some palettes are generated from various stills from the show.
 
-<img src="https://preview.redd.it/ycx96npd88351.png?width=960&crop=smart&auto=webp&s=4608831416972e77fb3fbdb5ba083dd40085df2a" width="200px" />
+<img src="https://preview.redd.it/ycx96npd88351.png?width=960&crop=smart&auto=webp&s=4608831416972e77fb3fbdb5ba083dd40085df2a" width="200px" /><img src="https://wallpapercave.com/wp/wp2084607.jpg" width="200px" />
 
 ## Example
 

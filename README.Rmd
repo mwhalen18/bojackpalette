@@ -32,6 +32,7 @@ Some palettes are generated from various stills from the show.
 
 ```{r echo = FALSE, out.width="200px"}
 knitr::include_graphics("https://preview.redd.it/ycx96npd88351.png?width=960&crop=smart&auto=webp&s=4608831416972e77fb3fbdb5ba083dd40085df2a")
+knitr::include_graphics("https://wallpapercave.com/wp/wp2084607.jpg")
 
 ```
 
