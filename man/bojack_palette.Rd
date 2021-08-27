@@ -9,9 +9,9 @@ bojack_palette(name, n)
 \arguments{
 \item{name}{Name of desired character or palette. Choices are
 \code{Bojack}, \code{Todd}, \code{Diane},
-\code{MrPeanutButter}, \code{PrincessCarolyn},
+\code{MrPeanutButter}, \code{PrincessCarolyn}, \code{HollywooStars}
 \code{Hollyhock}, \code{SarahLynn}, \code{HorsinAroundBojack},
-\code{ViewFromHalfwayDown}
+\code{ViewFromHalfwayDown}, \code{EscapeFromLa}
 @importFrom graphics rgb rect par image text}
 }
 \value{

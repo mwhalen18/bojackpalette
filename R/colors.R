@@ -13,7 +13,9 @@ bojack_palettes = list(
   Hollyhock = c("#feeaca","#83411b","#cf8054","#87dcd0","#ddd87a","#47464b"),
   SarahLynn = c("#9c603a","#fbe1d2","#0064c5","#b57df5","#fcfdf4","#565052","#dcc225"),
   HorsinAroundBojack = c("#a7682f","#e6798a","#de9a27","#71cecd","#ef0718", "#000000","#fdfdfd"),
-  ViewFromHalfwayDown = c("#332c3c", "#946253", "#56518a", "#d9cfc2", "#7269c7", "#a2b2c5", "#744c42", "#bd5a28", "#717067")
+  ViewFromHalfwayDown = c("#332c3c", "#946253", "#56518a", "#d9cfc2", "#7269c7", "#a2b2c5", "#744c42", "#bd5a28", "#717067"),
+  EscapeFromLa = c("#26488C", "#F2C84B", "#F2811D", "#732F17", "#F2622E", "#BF4E4E"),
+  HollywooStars = c("#FF0A72", "#7922F2","#F2C641", "#FD87C6", "#F2E7AE")
 )
 
 
@@ -23,9 +25,9 @@ bojack_palettes = list(
 #'
 #' @param name Name of desired character or palette. Choices are
 #'     \code{Bojack}, \code{Todd}, \code{Diane},
-#'     \code{MrPeanutButter}, \code{PrincessCarolyn},
+#'     \code{MrPeanutButter}, \code{PrincessCarolyn}, \code{HollywooStars}
 #'     \code{Hollyhock}, \code{SarahLynn}, \code{HorsinAroundBojack},
-#'     \code{ViewFromHalfwayDown}
+#'     \code{ViewFromHalfwayDown}, \code{EscapeFromLa}
 #'     @importFrom graphics rgb rect par image text
 #' @return A vector of hex colors
 #' @export

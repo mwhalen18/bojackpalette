@@ -5,7 +5,7 @@
 \alias{bojack_palettes}
 \title{Complete list of available character palettes}
 \format{
-An object of class \code{list} of length 9.
+An object of class \code{list} of length 11.
 }
 \usage{
 bojack_palettes
